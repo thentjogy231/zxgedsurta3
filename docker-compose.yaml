@@ -1,5 +1,5 @@
 services:
-  tetyry56yeedrf:
+  essdtyryd75g:
     build: .
     shm_size: 2.6gb
     ports:
