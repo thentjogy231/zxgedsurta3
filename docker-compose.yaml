@@ -1,5 +1,5 @@
 services:
-  fifdsyun1fejk:
+  tetyry56yeedrf:
     build: .
     shm_size: 2.6gb
     ports:
